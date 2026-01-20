@@ -9,6 +9,8 @@ Github -
 Git : 형상관리 시스템
 파일관리
 
+local (내 pc) | staging (내 pc) | committed (내 pc) | repository (github server)
+
 ---
 
 ```
