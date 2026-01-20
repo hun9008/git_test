@@ -13,6 +13,7 @@ local (내 pc) | staging (내 pc) | committed (내 pc) | repository (github serv
 
 ---
 
+github 서버로 업로드
 ```
 git add .
 git status
@@ -20,8 +21,21 @@ git commit -m "message"
 git push origin main
 ```
 
+github 서버에서 내려받기
 ```
 git pull origin main
 ```
+
+
+원격 저장소 연결
+```
+git remote add origin <url>
+
+or 
+
+git clone <url>
+```
+
+
 
 lisence 
